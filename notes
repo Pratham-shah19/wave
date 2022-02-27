@@ -7,3 +7,11 @@ Thing to note:
 3)Menu Screen: Individual Tiffin Service specific Screen --> clickable List of Menu with particular rating,photo of checf/identity , more about tiffin service details with total rating, add to cart button, add ons
 
 4)Product Screen: Individual Item/Food Screen (i.e. rice,daal etc) --> Photos of Product, ingredients, ratings of product, short explianation of product, feature of product like: Protien Rich,Low Carb etc....
+
+5)tiffins model: data of tiffin providers -->id,ownerId,imageUrl,title,description,price,address,ratings
+
+6)product model: data of any individual product by any owner --> id,ownerId,imageUrl,title,description,bulline,ingredients,ratings
+
+7)tiffins dummy data: 6 different tiffin service providers
+
+8)product dummy data : 5 different proudct for 6 different providers -> 5*6=30 products with different Id 
