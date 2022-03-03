@@ -5,7 +5,7 @@ import HomeScreen from './screens/HomeScreen';
 
 const App = () => {
   return (
-    <View>
+    <View style={{backgroundColor: 'white'}}>
       <HomeScreen />
     </View>
   );
